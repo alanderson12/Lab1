@@ -1,0 +1,16 @@
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/obj/Debug/netcoreapp3.1/321-lab1-alanderson12.csprojAssemblyReference.cache
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/obj/Debug/netcoreapp3.1/321-lab1-alanderson12.AssemblyInfoInputs.cache
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/obj/Debug/netcoreapp3.1/321-lab1-alanderson12.AssemblyInfo.cs
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/obj/Debug/netcoreapp3.1/321-lab1-alanderson12.csproj.CoreCompileInputs.cache
+/Users/abigailanderson/Desktop/Repos/_221StarterCode/obj/Debug/netcoreapp3.1/321-lab1-alanderson12.csprojAssemblyReference.cache
+/Users/abigailanderson/Desktop/Repos/_221StarterCode/obj/Debug/netcoreapp3.1/321-lab1-alanderson12.AssemblyInfoInputs.cache
+/Users/abigailanderson/Desktop/Repos/_221StarterCode/obj/Debug/netcoreapp3.1/321-lab1-alanderson12.AssemblyInfo.cs
+/Users/abigailanderson/Desktop/Repos/_221StarterCode/obj/Debug/netcoreapp3.1/321-lab1-alanderson12.csproj.CoreCompileInputs.cache
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/bin/Debug/netcoreapp3.1/321-lab1-alanderson12.deps.json
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/bin/Debug/netcoreapp3.1/321-lab1-alanderson12.runtimeconfig.json
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/bin/Debug/netcoreapp3.1/321-lab1-alanderson12.runtimeconfig.dev.json
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/bin/Debug/netcoreapp3.1/321-lab1-alanderson12.dll
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/bin/Debug/netcoreapp3.1/321-lab1-alanderson12.pdb
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/obj/Debug/netcoreapp3.1/321-lab1-alanderson12.dll
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/obj/Debug/netcoreapp3.1/321-lab1-alanderson12.pdb
+/Users/abigailanderson/Desktop/Repos/321-lab1-alanderson12/obj/Debug/netcoreapp3.1/321-lab1-alanderson12.genruntimeconfig.cache
