@@ -7,6 +7,7 @@ namespace _221StarterCode
     {
         static void Main(string[] args)
         {
+            //
             //interface variables being called from classes
             IPitch fastball = new Fastball();
             IPitch curve = new Curveball();
